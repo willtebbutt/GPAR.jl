@@ -1,0 +1,4 @@
+name = "GPAR"
+uuid = "27556b5a-1eff-11e9-1a67-7de6191ea274"
+authors = ["Will Tebbutt <wt0881@my.bristol.ac.uk>"]
+version = "0.1.0"

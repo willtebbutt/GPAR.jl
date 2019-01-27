@@ -1,5 +1,8 @@
 module GPAR
 
-greet() = print("Hello World!")
+using Random, Stheno
+
+include("util.jl")
+include("gpar.jl")
 
 end # module

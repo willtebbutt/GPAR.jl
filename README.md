@@ -1,3 +1,5 @@
+DEPRECATED IN FAVOUR OF [GPARs.jl](https://github.com/willtebbutt/GPARs.jl)
+
 # GPAR.jl
 The Gaussian Process Autoregressive Regressor
 
